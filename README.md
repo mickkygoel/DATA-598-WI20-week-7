@@ -2,6 +2,7 @@
 # mysimplecompedium
 
 <!-- badges: start -->
+[![R build status](https://github.com/mickkygoel/mysimplecompedium/workflows/R-CMD-check/badge.svg)](https://github.com/mickkygoel/mysimplecompedium/actions)
 <!-- badges: end -->
 
 The goal of mysimplecompedium is to perform in class activity and demonstrate some features of R.
