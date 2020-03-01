@@ -32,6 +32,7 @@ Please note that the 'mysimplecompedium' project is released with a
 By contributing to this project, you agree to abide by its terms.
 
 **Licenses**
+
 Text and Figures : MIT + file LICENSE
 
 Code : MIT + file LICENSE
