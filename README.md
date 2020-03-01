@@ -24,7 +24,7 @@ library(mysimplecompedium)
 ## basic example code
 ```
 
-## Code of Conduct
+## Contributing
 
 Please note that the 'mysimplecompedium' project is released with a
 [Contributor Code of Conduct](CODE_OF_CONDUCT.md).
